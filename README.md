@@ -40,7 +40,7 @@ To use this demo, you'll need to configure an application in Box. Here's how:
 
 ## Deploying to Vercel
 
-[Deploy with Vercel](https://vercel.com/new/clone?repository-url=https://github.com/box-community/box-web-app-integration-demo.git&project-name=box-web-app-integration-demo&env=CLIENT_ID,CLIENT_SECRET)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/box-community/box-web-app-integration-demo.git&project-name=box-web-app-integration-demo&env=CLIENT_ID,CLIENT_SECRET)
 
 ## Learn More
 
